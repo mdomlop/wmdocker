@@ -6,6 +6,7 @@ program.
 
 You can download the original source from
 [here](https://icculus.org/openbox/2/docker/docker-1.5.tar.gz)
+
 ￼
 In addition, such code is avaible in
 [github](https://github.com/kordless/docker)
@@ -41,6 +42,8 @@ distribution. I have personally added a PKGBUILD for Arch Linux.
 ---
 
 ***  The following is the contents of the original README file: ***
+
+---
 
 Docker - Docking System Tray
 
