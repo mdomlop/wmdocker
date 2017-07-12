@@ -21,7 +21,7 @@ source=(
 "https://raw.githubusercontent.com/mdomlop/${pkgname}/master/net.c"
 "https://raw.githubusercontent.com/mdomlop/${pkgname}/master/net.h"
 "https://raw.githubusercontent.com/mdomlop/${pkgname}/master/README.md"
-"https://raw.githubusercontent.com/mdomlop/${pkgname}/master/THANKS.md"
+"https://raw.githubusercontent.com/mdomlop/${pkgname}/master/THANKS"
 "https://raw.githubusercontent.com/mdomlop/${pkgname}/master/version.h"
 "https://raw.githubusercontent.com/mdomlop/${pkgname}/master/version.h.in"
 "https://raw.githubusercontent.com/mdomlop/${pkgname}/master/wmdocker.c"
@@ -42,7 +42,7 @@ md5sums=(
 '42a1fb9a1f884524018d1535eb2ec36b'  # net.c
 '97fec0701600198142acb305ebc7b674'  # net.h
 'eea2fe40b8c98bf170a428e6e0f49e40'  # README.md
-'c04529e023039a50c6476a064faa7aea'  # THANKS.md
+'c04529e023039a50c6476a064faa7aea'  # THANKS
 '119659fd278426e00808e3a865b5aae5'  # version.h
 '073c370a5739a8dfae8da1d2d910782a'  # version.h.in
 '37b468ff152474fc7aa5536e557739a1'  # wmdocker.c
