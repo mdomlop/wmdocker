@@ -5,9 +5,9 @@ _pkgver_month=07
 _pkgver_day=12
 
 pkgname=wmdocker
-pkgver=1.5.1
-pkgrel=1
 pkgdesc="Docking System Tray."
+pkgver=git
+pkgrel=1
 url="https://github.com/mdomlop/${pkgname}"
 source=(
 "https://raw.githubusercontent.com/mdomlop/${pkgname}/master/AUTHORS"
