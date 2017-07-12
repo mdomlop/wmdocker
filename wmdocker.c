@@ -102,6 +102,7 @@ void parse_cmd_line()
     if (help) {
       /* show usage help */
       g_print("%s - version %s\n", argv[0], VERSION);
+      g_print("Copyright 2017, Manuel Domínguez López <mdomlop@gmail.com>\n\n");
       g_print("Copyright 2003, Ben Jansens <ben@orodu.net>\n\n");
       g_print("Usage: %s [OPTIONS]\n\n", argv[0]);
       g_print("Options:\n");
