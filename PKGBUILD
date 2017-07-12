@@ -53,7 +53,7 @@ md5sums=(
 
 license=('GPL2')
 depends=('libx11')
-arch=('x86_64')
+arch=('x86_64' 'i686')
 
 build() {
     cd "${srcdir}"
