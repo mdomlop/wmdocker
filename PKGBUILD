@@ -45,7 +45,7 @@ md5sums=(
 'c04529e023039a50c6476a064faa7aea'  # THANKS
 '119659fd278426e00808e3a865b5aae5'  # version.h
 '073c370a5739a8dfae8da1d2d910782a'  # version.h.in
-'fb124b68a6a57760ed5585a09ebe6684'  # wmdocker.c
+'1d6390e0e84c09a292dc6e98e101d8cc'  # wmdocker.c
 'd61ec79b7ed4265f02279b4d9d173a95'  # wmdocker.h
 '6298a3fc26d26ca3c689107b5575d11a'  # xproperty.c
 'db0b759bf9788b3b964b7ff5791c80b4'  # xproperty.h
