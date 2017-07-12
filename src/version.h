@@ -1,1 +1,1 @@
-#define VERSION "1.5.1"
+/home/mdl/Documentos/Programas/wmdocker/version.h

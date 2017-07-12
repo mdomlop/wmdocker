@@ -1,0 +1,9 @@
+2017-07-27  Manuel Domínguez López  <mdomlop@gmail.com>
+
+	* Version 1.5.1
+
+	* Renamed from docker to wmdocker.
+
+	* Added Documentation files.
+
+	* Added PKGBUILD.
