@@ -46,7 +46,7 @@ void signal_handler(int signal)
 }
 
 
-void parse_cmd_line()
+void parse_cmd_line(int argc, char **argv)
 {
   int i;
   gboolean help = FALSE;
@@ -284,6 +284,7 @@ void event_loop()
       case ReparentNotify:
         if (e.xany.window == win) /* reparented to us */
           break;
+        /* fallthrough */
       case UnmapNotify:
       case DestroyNotify:
         for (it = icons; it; it = g_slist_next(it)) {
